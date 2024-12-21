@@ -81,5 +81,5 @@ The dataset includes information about GitHub users in India, such as:
 
 ## Contributors
 - **Aman Shaikh** ([GitHub](https://github.com/aman7756068021))
+- - **Fakruddin Ali Ahmed** ([GitHub](https://github.com/priyanshu2706-oss))
 -  **Priyanshu Tomar** ([GitHub](https://github.com/Alishaikh07))
-- **Fakruddin Ali Ahmed** ([GitHub](https://github.com/priyanshu2706-oss))
