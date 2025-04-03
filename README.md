@@ -79,7 +79,3 @@ The dataset includes information about GitHub users in India, such as:
 - Insights into the most active users and popular repositories.
 - Visualizations highlighting user engagement and repository statistics.
 
-## Contributors
-- **Aman Shaikh** ([GitHub](https://github.com/aman7756068021))
-- - **Fakruddin Ali Ahmed** ([GitHub](https://github.com/priyanshu2706-oss))
--  **Priyanshu Tomar** ([GitHub](https://github.com/Alishaikh07))
