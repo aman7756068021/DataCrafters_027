@@ -25,6 +25,14 @@ The dataset includes information about GitHub users in India, such as:
 
 [Download Dataset](https://www.kaggle.com/datasets/architty108/github-indian-users-deep-data)
 
+![image](https://github.com/user-attachments/assets/ddadee6f-236e-4b95-a505-ca288bfa89f7)
+
+![image](https://github.com/user-attachments/assets/38c5e8c7-b837-4487-850e-6ee057cad8da)
+
+
+![image](https://github.com/user-attachments/assets/e237a7ea-6d00-489b-adf6-b4df7fde0071)
+
+
 ## Project Overview
 1. **Dataset Processing**
     - Load the dataset into a pandas DataFrame.
