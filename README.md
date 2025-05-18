@@ -1,5 +1,3 @@
-# DataCrafters_027
-
 # GitHub Indian Users Deep Data Analysis
 
 
